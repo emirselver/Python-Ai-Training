@@ -1,0 +1,26 @@
+Proje Gereksinimleri
+1) Not Ekleme:
+
+Kullanıcı, bir başlık ve içerik girerek yeni bir not ekleyebilmelidir.
+
+2) Not Görüntüleme:
+
+Kullanıcı, mevcut notları başlıklarıyla birlikte görüntüleyebilmelidir.
+Kullanıcı, detayını görmek istediği notun başlığını seçerek içeriğini görüntüleyebilmelidir.
+
+3) Not Düzenleme:
+
+Kullanıcı, mevcut bir notun başlığını ve içeriğini düzenleyebilmelidir.
+Düzenleme işlemi, notun seçilmesi ve yeni bilgilerin girilmesi yoluyla yapılmalıdır.
+
+liste = ["sehirler"]
+liste[0] = "ilceler"
+
+4) Not Silme:
+
+Kullanıcı, mevcut bir notu silebilmelidir.
+Silme işlemi, notun başlığı seçilerek gerçekleştirilmelidir.
+
+----> Veri Saklama:
+
+Notlar, uygulama çalıştığı sürece hafızada saklanmalıdır. Uygulama kapandığında notlar kaybolur.

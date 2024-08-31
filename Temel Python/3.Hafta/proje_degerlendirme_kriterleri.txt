@@ -1,0 +1,31 @@
+Değerlendirme Kriterleri
+1) Kod Kalitesi (10 puan):
+
+Kodun okunabilirliği ve organizasyonu.
+Değişken adlarının açıklayıcı olması ve kodun anlaşılır olması.
+
+2) Fonksiyonellik (10 puan):
+
+Projenin belirtilen gereksinimleri karşılaması.
+Yazılımın düzgün çalışması ve hata vermemesi.
+
+3) Yenilikçilik (10 puan):
+
+Projede kullanılan yenilikçi çözümler. (Projenin inovatif yönü)
+Projenin özgünlüğü.
+
+4) Kullanıcı Deneyimi (10 puan):
+
+Projenin kullanıcı dostu olması.
+
+5) Dokümantasyon (10 puan):
+
+Projenin iyi dokümante edilmiş olması.
+Kullanıcı kılavuzları ve yorum satırlarıyla ilgili açıklamalarının mevcut olması.
+
+Genel Sıralama İçin Puan Hesaplaması:
+----> 5 Kriterin her birinden alınan puan toplanır ve genel sıralama yapılır
+
+Proje Teslimi:
+----> Ekip liderinin adı soyadı, hazırlanan kodun dosya adı olacak şekilde discordda "Yarışma" kanalında .py uzantılı paylaşılır.
+
